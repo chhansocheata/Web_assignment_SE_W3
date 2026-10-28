@@ -1,0 +1,46 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+
+div {
+    background: white;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    border-radius:10px;
+}
+
+button {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    cursor: pointer;
+    color :aliceblue
+
+}
+
+.Green {
+    background-color: rgb(11, 81, 11);
+
+}
+.Green:hover {
+    background-color: rgb(105, 186, 105);
+    color: black;
+}
+.orange {
+    background-color: orange;
+}
+.orange:hover {
+    background-color: rgb(230, 182, 93);
+    color: black;   
+}
+.Purple {
+    background-color: rgb(214, 17, 214);
+}
+.Purple:hover {
+    background-color: rgb(235, 181, 235);
+    color: black;
+}
+
